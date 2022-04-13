@@ -9,4 +9,5 @@ public class Wave2Controller {
 	public String getMessage() {
 		return "Hello from IBM Wave 2 Batch";
 	}
+
 }
